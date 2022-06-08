@@ -10,8 +10,12 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@fortawesome/free-regular-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
     "react": "17.0.2",
     "react-native": "0.68.2",
+    "react-native-vector-icons": "^9.1.0",
+    "remixicon-react": "^1.0.0",
     "twrnc": "^3.3.2"
   },
   "devDependencies": {
